@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on projects like web development!
 - 📫 How to reach me:
-  email: mikojohn158@gmail.com
+  email: johnoscar.roble@gmail.com
 
 <!---
 shadycodee/shadycodee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
