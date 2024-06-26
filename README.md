@@ -1,6 +1,6 @@
 [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shady</h1>
-<h3 align="center">A developer / QA Tester based in the Philippines</h3>
+<h3 align="center">Developer | QA Tester</h3>
 
 <img align="right" alt="Coding" width="400" src="https://motionarray.com/stock-motion-graphics/web-developer-class-animation-loop-1615425/">
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- ⚡ Fun fact **Certified lover boy wop wop wop wop wop**
+- ⚡ **Certified Lover Boy, wop wop wop wop wop**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
