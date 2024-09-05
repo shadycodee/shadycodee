@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- ⚡ **Certified Lover Boy, wop wop wop wop wop**
+- ⚡ **<>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
